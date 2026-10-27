@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МЧС: Тревога БПЛА</string>
+
+    <string name="last_update">Последнее обновление: %s</string>
+    <string name="never_updated">Ещё не обновлялось</string>
+    <string name="refresh">Обновить</string>
+    <string name="auto_refresh_on">Автообновление: каждые 5 минут</string>
+    <string name="empty_list">Уведомлений нет.\nНажмите «Обновить» для загрузки данных с сайта МЧС.</string>
+    <string name="error_load">Ошибка загрузки данных: %s</string>
+    <string name="channel_alerts_name">Угроза БПЛА</string>
+    <string name="channel_alerts_desc">Срочные уведомления об атаке беспилотников по данным МЧС</string>
+    <string name="notification_title_template">⚠️ Угроза БПЛА: %1$s</string>
+    <string name="region_filter_hint">Фильтр по региону</string>
+    <string name="all_regions">Все регионы</string>
+</resources>
